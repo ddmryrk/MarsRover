@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Core", "MarsRover.Core\MarsRover.Core.csproj", "{9290A477-2D86-4DB9-A021-F981DFB9C55A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.UI", "MarsRover.UI\MarsRover.UI.csproj", "{8804F390-5A66-4B62-8DB3-DBC35E86E048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{9290A477-2D86-4DB9-A021-F981DFB9C55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9290A477-2D86-4DB9-A021-F981DFB9C55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9290A477-2D86-4DB9-A021-F981DFB9C55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8804F390-5A66-4B62-8DB3-DBC35E86E048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8804F390-5A66-4B62-8DB3-DBC35E86E048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8804F390-5A66-4B62-8DB3-DBC35E86E048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8804F390-5A66-4B62-8DB3-DBC35E86E048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
